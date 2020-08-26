@@ -1,0 +1,16 @@
+---
+title: "partner"
+author: "Kordell Schrock"
+date: "8/26/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. Your (the Partner’s) full name and GitHub username..
+
+    Answer: **Kordell Schrock** *kschrock*
+
+2. What did the Owner do in the most recent commit? What is the commit ID?
