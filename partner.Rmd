@@ -11,6 +11,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1. Your (the Partner’s) full name and GitHub username..
 
-    Answer: **Kordell Schrock** *kschrock*
+    Answer: **Kordell Schrock** GitHub Username: *kschrock*
 
 2. What did the Owner do in the most recent commit? What is the commit ID?
+
+    Answer: added hw1.html & added hw1.Rmd. The commit ID : **c6e4ca01e09875cefeeb11d111fef9ed5633c80c**
+
+3. Knit the Owner’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
+
+    Answer: There was a missing Local file for hw1_image.jpg and was not in the Directory on Github. But the owner added the file so we fixed the error. 
+    
+4. Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.
+
+    Answer: Not difficuly. Maybe use GitHub Desktop App?  
+
+    
